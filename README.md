@@ -31,7 +31,11 @@ BlockFall, an implementation of the classic Tetris game with new features in C++
 3. `./blockFall`
 
 ## In-game Photos
-
+#### Gameplay:
 ![](screenshots/blockfall-gameplay.png "Gameplay")
+
+#### Gameover Screen:
 ![](screenshots/blockfall-gameover.png "Gameover Screen")
+
+#### Exit Screen:
 ![](screenshots/blockfall-gameend.png "Exit Screen")
